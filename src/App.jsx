@@ -150,7 +150,7 @@ function App() {
             <div className="image-wrapper">
 
               <img
-                src="/images/profile.jpg"
+                src="/images/profile.png"
                 alt="Romilda"
               />
 
