@@ -81,7 +81,7 @@ function App() {
   </a>
 
   <a
-  href="/images/Resume.pdf"
+  href="/public/Resume.pdf"
   download
   className="secondary-button"
 >
@@ -150,7 +150,7 @@ function App() {
             <div className="image-wrapper">
 
               <img
-                src="/public/profile.jpg"
+                src="/images/profile.jpg"
                 alt="Romilda"
               />
 
