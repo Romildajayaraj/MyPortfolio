@@ -1530,6 +1530,7 @@ function App() {
           <a
             href="/images/Guvi cert.png"
             download="GUVI- FSD -Certificate.png"
+             className="certification-download"
                      >
             Download
           </a>
