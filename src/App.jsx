@@ -1328,7 +1328,7 @@ function App() {
             <div className="certificate-buttons">
 
               <a
-                href="/public/oasis infobyte.png"
+                href="/images/oasis infobyte.png"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -1336,7 +1336,7 @@ function App() {
               </a>
 
               <a
-                href="/public/oasis infobyte.png"
+                href="/images/oasis infobyte.png"
                 download="RJ Oasis Infobyte cert."
               >
                 Download
@@ -1410,7 +1410,7 @@ function App() {
             <div className="certificate-buttons">
 
               <a
-                href="/public/edutantr.png"
+                href="/images/edutantr.png"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -1418,7 +1418,7 @@ function App() {
               </a>
 
               <a
-                href="/public/edutantr.png"
+                href="/images/edutantr.png"
                 download="RJ Edutantr cert."
               >
                 Download
@@ -1519,7 +1519,7 @@ function App() {
         <div className="certification-actions">
 
           <a
-            href="/public/Guvi cert.png"
+            href="/images/Guvi cert.png"
             target="_blank"
             rel="noopener noreferrer"
             className="certification-view"
@@ -1528,7 +1528,7 @@ function App() {
           </a>
 
           <a
-            href="/public/Guvi cert.png"
+            href="/images/Guvi cert.png"
             download="GUVI- FSD -Certificate.png"
                      >
             Download
@@ -1592,7 +1592,7 @@ function App() {
         <div className="certification-actions">
 
           <a
-            href="/public/Edutantr cert.png"
+            href="/images/Edutantr cert.png"
             target="_blank"
             rel="noopener noreferrer"
             className="certification-view"
@@ -1601,7 +1601,7 @@ function App() {
           </a>
 
           <a
-            href="/public/Edutantr cert.png"
+            href="/images/Edutantr cert.png"
             download="Edutant-Full-Stack-Development-Certificate.png"
             className="certification-download"
           >
@@ -1842,13 +1842,13 @@ function App() {
                 </p>
 
                 <div className="cert-actions">
-                  <a href="/public/conference.png" target="_blank">View</a>
-                  <a href="/conference.png" download>Download</a>
+                  <a href="/images/conference.png" target="_blank">View</a>
+                  <a href="/images/conference.png" download>Download</a>
                 </div>
               </div>
 
               <div className="cert-preview">
-                <img src="/public/conference.png" alt="Conference Certificate" />
+                <img src="/images/conference.png" alt="Conference Certificate" />
               </div>
 
             </article>
@@ -1870,13 +1870,13 @@ function App() {
                 </p>
 
                 <div className="cert-actions">
-                  <a href="/public/hackathon.png" target="_blank">View</a>
-                  <a href="/hackathon.png" download>Download</a>
+                  <a href="/images/hackathon.png" target="_blank">View</a>
+                  <a href="/images/hackathon.png" download>Download</a>
                 </div>
               </div>
 
               <div className="cert-preview">
-                <img src="/public/hackathon.png" alt="Hackathon Certificate" />
+                <img src="/images/hackathon.png" alt="Hackathon Certificate" />
               </div>
 
             </article>
@@ -1898,13 +1898,13 @@ function App() {
                 </p>
 
                 <div className="cert-actions">
-                  <a href="/public/symposium.png" target="_blank">View</a>
-                  <a href="/public/symposium.png" download>Download</a>
+                  <a href="/images/symposium.png" target="_blank">View</a>
+                  <a href="/images/symposium.png" download>Download</a>
                 </div>
               </div>
 
               <div className="cert-preview">
-                <img src="/public/symposium.png" alt="Symposium Certificate" />
+                <img src="/images/symposium.png" alt="Symposium Certificate" />
               </div>
 
             </article>
@@ -1926,8 +1926,8 @@ function App() {
                 </p>
 
                 <div className="cert-actions">
-                  <a href="/public/type writing.png" target="_blank">View</a>
-                  <a href="/public/type writing.png" download>Download</a>
+                  <a href="/images/type writing.png" target="_blank">View</a>
+                  <a href="/images/type writing.png" download>Download</a>
                 </div>
 
                 <div className="achievement-badge">✓ Second Class</div>
