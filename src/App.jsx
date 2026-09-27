@@ -1934,7 +1934,7 @@ function App() {
               </div>
 
               <div className="cert-preview">
-                <img src="/type writing.png" alt="Typewriting Certificate" />
+                <img src="/images/type writing.png" alt="Typewriting Certificate" />
               </div>
 
             </article>
