@@ -1246,7 +1246,7 @@ function App() {
             <div className="certificate-buttons">
 
               <a
-                href="/public/codebind.png"
+                href="/images/codebind.png"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -1254,7 +1254,7 @@ function App() {
               </a>
 
               <a
-                href="/public/codebind.png"
+                href="/images/codebind.png"
                 download="RJ codebind cert."
               >
                 Download
